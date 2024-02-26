@@ -46,7 +46,7 @@
 	display: flex;
     align-items: center;
     justify-content: center;
-    height: 100%; /* Adjust according to your layout */
+    height: 100%; 
 
 }
 
@@ -54,7 +54,7 @@
 
 	display: flex;
     flex-wrap: wrap;
-    gap: 10px; /* Adjust for space between tags */
+    gap: 10px; 
     padding: 0;
     list-style: none;
 
